@@ -1,9 +1,4 @@
-zhangjiangyi create file in 2016/08/19 14:51
-change branch dev in 2016.08.19 16.02
-create branch dev in 2016.08.19 16.54
-clone branch dev with change dev in 2016.08.19 17.06
-change branch dev in 2016.08.19 17.09
-something wrong in branch dev
+clear branch dev content
 
 
 
